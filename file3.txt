@@ -1,1 +1,2 @@
 This is file3.txt
+This is the new data added to file file3
