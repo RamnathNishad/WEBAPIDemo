@@ -1,0 +1,12 @@
+E:\EmpWebAPIService\EmpEFDalLib\bin\Debug\EmpEFDalLib.dll.config
+E:\EmpWebAPIService\EmpEFDalLib\bin\Debug\EmpEFDalLib.dll
+E:\EmpWebAPIService\EmpEFDalLib\bin\Debug\EmpEFDalLib.pdb
+E:\EmpWebAPIService\EmpEFDalLib\bin\Debug\EntityFramework.dll
+E:\EmpWebAPIService\EmpEFDalLib\bin\Debug\EntityFramework.SqlServer.dll
+E:\EmpWebAPIService\EmpEFDalLib\bin\Debug\EntityFramework.xml
+E:\EmpWebAPIService\EmpEFDalLib\bin\Debug\EntityFramework.SqlServer.xml
+E:\EmpWebAPIService\EmpEFDalLib\obj\Debug\EmpEFDalLib.csprojAssemblyReference.cache
+E:\EmpWebAPIService\EmpEFDalLib\obj\Debug\EmpEFDalLib.csproj.CoreCompileInputs.cache
+E:\EmpWebAPIService\EmpEFDalLib\obj\Debug\EmpEFDalLib.csproj.CopyComplete
+E:\EmpWebAPIService\EmpEFDalLib\obj\Debug\EmpEFDalLib.dll
+E:\EmpWebAPIService\EmpEFDalLib\obj\Debug\EmpEFDalLib.pdb
